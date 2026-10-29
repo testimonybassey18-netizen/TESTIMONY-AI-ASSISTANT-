@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: testimony-ai
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: node server.ts
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.14.0
+      - key: NODE_ENV
+        value: production
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: VITE_GEMINI_API_KEY
+        sync: false

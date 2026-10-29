@@ -1,0 +1,127 @@
+{
+  "test_user": {
+    "id": "test_user",
+    "freeMessagesRemaining": 24,
+    "totalMessagesProcessed": 1,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792572835139,
+    "updatedAt": 1792947672003,
+    "subscriptionStartDate": 1792572841703,
+    "subscriptionExpiryDate": 1824108841703
+  },
+  "guest": {
+    "id": "guest",
+    "freeMessagesRemaining": 23,
+    "totalMessagesProcessed": 2,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792946817791,
+    "updatedAt": 1792947118903
+  },
+  "test_verification_user": {
+    "id": "test_verification_user",
+    "freeMessagesRemaining": 23,
+    "totalMessagesProcessed": 2,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792947560226,
+    "updatedAt": 1792947663332
+  },
+  "speed_test_user": {
+    "id": "speed_test_user",
+    "freeMessagesRemaining": 24,
+    "totalMessagesProcessed": 1,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792947740461,
+    "updatedAt": 1792947741866
+  },
+  "speed_test_user_2": {
+    "id": "speed_test_user_2",
+    "freeMessagesRemaining": 24,
+    "totalMessagesProcessed": 1,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792947746673,
+    "updatedAt": 1792947747876
+  },
+  "user_b1pe5nsb2_mvhvlwps": {
+    "id": "user_b1pe5nsb2_mvhvlwps",
+    "freeMessagesRemaining": 25,
+    "totalMessagesProcessed": 0,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792965645974,
+    "updatedAt": 1792965645974
+  },
+  "publish_audit_user": {
+    "id": "publish_audit_user",
+    "freeMessagesRemaining": 24,
+    "totalMessagesProcessed": 1,
+    "isSubscribed": false,
+    "subscriptionPlan": "free",
+    "createdAt": 1792966020442,
+    "updatedAt": 1792966021530
+  },
+  "testimony_owner_test": {
+    "id": "testimony_owner_test",
+    "freeMessagesRemaining": 999999,
+    "totalMessagesProcessed": 0,
+    "isSubscribed": true,
+    "subscriptionPlan": "owner_vip",
+    "isOwner": true,
+    "createdAt": 1793002901477,
+    "updatedAt": 1793002901477,
+    "subscriptionStartDate": 1793002901477,
+    "subscriptionExpiryDate": 4946602901477
+  },
+  "student_user": {
+    "id": "student_user",
+    "freeMessagesRemaining": 25,
+    "totalMessagesProcessed": 0,
+    "isSubscribed": true,
+    "subscriptionPlan": "weekly",
+    "isOwner": false,
+    "createdAt": 1793002908101,
+    "updatedAt": 1793002908102,
+    "subscriptionStartDate": 1793002908102,
+    "subscriptionExpiryDate": 1793607708102
+  },
+  "test_verify": {
+    "id": "test_verify",
+    "freeMessagesRemaining": 999999,
+    "totalMessagesProcessed": 0,
+    "isSubscribed": true,
+    "subscriptionPlan": "owner_vip",
+    "isOwner": true,
+    "createdAt": 1793004296391,
+    "updatedAt": 1793004296391,
+    "subscriptionStartDate": 1793004296391,
+    "subscriptionExpiryDate": 4946604296391
+  },
+  "testimony_owner": {
+    "id": "testimony_owner",
+    "freeMessagesRemaining": 999999,
+    "totalMessagesProcessed": 1,
+    "isSubscribed": true,
+    "subscriptionPlan": "owner_vip",
+    "isOwner": true,
+    "createdAt": 1793116068327,
+    "updatedAt": 1793116091227,
+    "subscriptionStartDate": 1793116068327,
+    "subscriptionExpiryDate": 4946716068327
+  },
+  "regular_user": {
+    "id": "regular_user",
+    "freeMessagesRemaining": 25,
+    "totalMessagesProcessed": 0,
+    "isSubscribed": true,
+    "subscriptionPlan": "weekly",
+    "isOwner": false,
+    "createdAt": 1793116073952,
+    "updatedAt": 1793116073952,
+    "subscriptionStartDate": 1793116073952,
+    "subscriptionExpiryDate": 1793720873952
+  }
+}

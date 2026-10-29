@@ -1,0 +1,9 @@
+{
+  "name": "Testimony AI",
+  "description": "Your Intelligence. Your Creativity. Your Success. A powerful, easy-to-use AI assistant for school assignments, CV creation, multilingual translation, data analysis, writing, math, and business.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
