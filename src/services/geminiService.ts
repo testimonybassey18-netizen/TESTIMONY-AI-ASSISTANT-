@@ -251,7 +251,7 @@ export async function callGeminiGenerate(options: GenerateOptions): Promise<stri
       const { GoogleGenAI } = await import('@google/genai');
       const client = new GoogleGenAI({ apiKey: VITE_GEMINI_API_KEY });
       const response = await client.models.generateContent({
-        model: 'gemini-2.5-flash-preview',
+        model: 'gemini-2.5-flash',
         contents: options.prompt,
         config: {
           systemInstruction: options.systemInstruction,
